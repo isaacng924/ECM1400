@@ -1,0 +1,9 @@
+{
+  "news_API": "https://newsapi.org/docs/get-started#search",
+  "API_key": "https://newsapi.org/account",
+  "uk-covid_data_library": "https://publichealthengland.github.io/coronavirus-dashboard-api-python-sdk/",
+  "location": "Exeter",
+  "update_interval": "24hours",
+  "image": "covid.jpg",
+  "filepath": "/pythonProject2/main.py"
+}
